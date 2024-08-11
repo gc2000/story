@@ -1,5 +1,4 @@
 chapter 3 text
 
-test
-
-updated by master
+1. update made by master 
+2. update made by alien-plot
